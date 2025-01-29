@@ -1,0 +1,10 @@
+#myBox{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(97, 0, 162);
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
